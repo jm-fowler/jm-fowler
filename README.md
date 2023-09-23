@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 Justin Fowler: justin.m.fowler@proton.me
-A brief description of your Github account
-A brief description of the repository you created
-A brief description of the steps you took to clone the repository onto your local machine
+I am a Student at Wake Tech, and I am creating this repo for CTI-110.
+In this repo there is only a README.md file.
+To clone this repo onto my local computer, I selected file-->clone repo-->insert URL.
+
 
 <!--
 **jm-fowler/jm-fowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
