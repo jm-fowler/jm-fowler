@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Justin Fowler: justin.m.fowler@proton.me
+A brief description of your Github account
+A brief description of the repository you created
+A brief description of the steps you took to clone the repository onto your local machine
+
 <!--
 **jm-fowler/jm-fowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
