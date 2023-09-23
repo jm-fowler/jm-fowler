@@ -3,7 +3,7 @@
 Justin Fowler: justin.m.fowler@proton.me
 I am a Student at Wake Tech, and I am creating this repo for CTI-110.
 In this repo there is only a README.md file.
-To clone this repo onto my local computer, I selected file-->clone repo-->insert URL.
+To clone this repo onto my local computer, I selected file-->clone repo-->insert URL-->clone repo.
 
 
 <!--
