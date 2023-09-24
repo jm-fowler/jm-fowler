@@ -4,6 +4,15 @@ My name is Justin Fowler (justin.m.fowler@proton.me), and I am a student at Wake
 
 To clone this repo onto my local computer, I selected file-->clone repo-->insert URL-->clone repo.
 
+- 🔭 I’m currently working on an implementation of the ARC4 Algorithm in the Coral Language.
+- 🌱 I’m currently learning the coral and python programming languages.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: justin.m.fowler@proton.me
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: ...
+
 
 <!--
 **jm-fowler/jm-fowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
