@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-jm-fowler Justin Fowler justin.m.fowler@proton.me
-
-I am a Student at Wake Tech, and I am creating this repo for CTI-110.
-
-Although, at the moment there is only a README.md file in this repo, I will be adding classwork to it over time.
+My name is Justin Fowler (justin.m.fowler@proton.me), and I am a student at Wake Technical Community College. I am making this repo for the class CTI-110. At the moment, there is only a README.md file in this repo, however, I will be adding classwork to it over time. Although I might also add some fun side projects over time as well.
 
 To clone this repo onto my local computer, I selected file-->clone repo-->insert URL-->clone repo.
 
